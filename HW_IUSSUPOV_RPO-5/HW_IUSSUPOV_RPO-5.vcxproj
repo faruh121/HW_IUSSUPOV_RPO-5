@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DZ1_1.cpp" />
+    <ClCompile Include="DZ1_2.cpp" />
     <ClCompile Include="hw2_1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

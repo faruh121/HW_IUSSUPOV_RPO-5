@@ -13,10 +13,22 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Исходные файлы\hw2">
+      <UniqueIdentifier>{36790dd1-62b0-4d13-a434-98b57dccec37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\hw1">
+      <UniqueIdentifier>{5373873d-d64e-48ad-b7de-9ca8b30346b7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="hw2_1.cpp">
-      <Filter>Исходные файлы</Filter>
+      <Filter>Исходные файлы\hw2</Filter>
+    </ClCompile>
+    <ClCompile Include="DZ1_1.cpp">
+      <Filter>Исходные файлы\hw1</Filter>
+    </ClCompile>
+    <ClCompile Include="DZ1_2.cpp">
+      <Filter>Исходные файлы\hw1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
