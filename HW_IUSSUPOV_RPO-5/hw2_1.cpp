@@ -1,6 +1,8 @@
 #include <iostream>
 
 int main() {
+
+    setlocale(LC_ALL, "Rus");
     // 1. ÷икл от 0 до 10
     std::cout << "÷икл от 0 до 10:" << std::endl;
     for (int i = 0; i <= 10; ++i) {
